@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @TongZhao326
-- 👀 I’m looking for data scientist/data analyst position for new graduate
-- 🌱 I’m interested in machine learning methods in business.
 - 📫 How to reach me: tongzhao326@gmail.com
 
 <!---
